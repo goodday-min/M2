@@ -26,6 +26,8 @@ https://blog.naver.com/beanhb1281/224205809769
 
 ## 스토리보드
 
+https://github.com/goodday-min/M2/blob/main/gemini_output_2.pdf
+
 
 
 포함 항목: 브랜드 아이덴티티, 캠페인 목표/핵심 메시지, 씬 구성(씬별 필수 필드), 사용 도구 목록
