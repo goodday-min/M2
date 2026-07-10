@@ -24,7 +24,7 @@
 
 ## 스토리보드
 
-https://github.com/goodday-min/M2/blob/main/gemini_output_2.pdf
+https://github.com/goodday-min/M2/blob/main/BLACK_10s_Ad_Storyboard.pdf
 
 10~20대 남학생 섬유탈취제 'BLACK' 10초 모션 그래픽 광고
 
